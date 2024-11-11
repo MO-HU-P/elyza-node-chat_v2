@@ -31,6 +31,9 @@
 - `index.html` - チャットUIのメインページ
 - `style.css` - UIスタイリング
 
+### バックエンド（uploadsディレクトリ）
+- uploadされるファイルの保存ディレクトリ
+
 ### 設定ファイル
 - `requirements.txt` - Pythonパッケージの依存関係
 - `package.json` - Node.jsパッケージの依存関係
