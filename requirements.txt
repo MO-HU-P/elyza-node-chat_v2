@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-ollama
+fake-useragent
+langchain_community
+langchain_core
+openai
+instructor
